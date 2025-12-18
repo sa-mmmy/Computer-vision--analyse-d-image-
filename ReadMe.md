@@ -11,9 +11,10 @@ cloner le répertoire de projet via la commande :
 
 ```sql
 git clone https://forge.univ-lyon1.fr/p2413177/tp-analyse-image-python     
-```sql
+```
 
 installez les bibliothèque nécessaire dans l'environnement de l'exécution : exécutez la commande dans le venv 
+
 ```sql
 pip install numpy opencv-python matplotlib pillow 
 pip install tk    
