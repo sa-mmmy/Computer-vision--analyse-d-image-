@@ -1,4 +1,4 @@
-// for execution : 
+# for execution : 
 # EXÉCUTION DE CODE : 
 
 Dans ce projet nous avons développé un programme en Python utilisant OpenCV et NumPy pour la manipulation d'images et Tkinter pour la création de l’interface graphique . 
