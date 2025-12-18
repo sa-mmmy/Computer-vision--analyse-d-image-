@@ -1,5 +1,5 @@
 // for execution : 
-// EXÉCUTION DE CODE : 
+# EXÉCUTION DE CODE : 
 
 Dans ce projet nous avons développé un programme en Python utilisant OpenCV et NumPy pour la manipulation d'images et Tkinter pour la création de l’interface graphique . 
 
@@ -9,12 +9,18 @@ utilisez une version de python 3.10 ou plus .
 
 cloner le répertoire de projet via la commande : 
 
-git clone https://forge.univ-lyon1.fr/p2413177/tp-analyse-image-python       
+```sql
+git clone https://forge.univ-lyon1.fr/p2413177/tp-analyse-image-python     
+```sql
 
 installez les bibliothèque nécessaire dans l'environnement de l'exécution : exécutez la commande dans le venv 
-
+```sql
 pip install numpy opencv-python matplotlib pillow 
-pip install tk     
+pip install tk    
+```
 
-exécutez la commande python main.py dans le terminal du répertoire cloner ( tp-analyse-image-python ) 
+exécutez la commande : 
+```sql
+python main.py dans le terminal du répertoire cloner ( tp-analyse-image-python ) 
+```
 amusez-vous en manipulant les différents paramètres du programme .
