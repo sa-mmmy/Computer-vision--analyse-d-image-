@@ -10,7 +10,7 @@ utilisez une version de python 3.10 ou plus .
 cloner le répertoire de projet via la commande : 
 
 ```sql
-git clone https://forge.univ-lyon1.fr/p2413177/tp-analyse-image-python     
+https://github.com/sa-mmmy/Computer-vision--analyse-d-image-.git   
 ```
 
 installez les bibliothèque nécessaire dans l'environnement de l'exécution : exécutez la commande dans le venv 
